@@ -11,4 +11,4 @@ Artificial Neural Networks (ANNs) come in various types, each tailored for speci
      * Description: Designed for sequential data, with connections that form directed cycles. 
      * They have memory of previous inputs.
 
-Uses: Ideal for time-series data, natural language processing, and speech recognition.
+   4. Uses: Ideal for time-series data, natural language processing, and speech recognition.
