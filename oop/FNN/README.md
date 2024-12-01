@@ -14,4 +14,5 @@ A. Structure of a Feedforward Neural Network (FNN)
   * Biases: Additional parameters added to the weighted sum before applying the activation 
     function to shift the activation function.
 
-Activation Functions: Functions like Sigmoid, ReLU (Rectified Linear Unit), Tanh, etc., that introduce non-linearity into the network, allowing it to learn complex patterns.
+* Activation Functions: Functions like Sigmoid, ReLU (Rectified Linear Unit), Tanh, etc., 
+  that introduce non-linearity into the network, allowing it to learn complex patterns.
