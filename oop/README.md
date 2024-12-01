@@ -3,13 +3,12 @@ Artificial Neural Networks (ANNs) come in various types, each tailored for speci
       * Description: The simplest type of ANN where connections between nodes do not form
        cycles.
       * Uses: Commonly used for tasks like image recognition and basic pattern recognition.
-  3. Convolutional Neural Networks (CNN)
+  2. Convolutional Neural Networks (CNN)
      * Description: Specialized for processing grid-like data such as images, with 
        convolutional layers to detect features.
      * Uses: Widely used in computer vision tasks, including image and video recognition.
-
-Recurrent Neural Networks (RNN)
-
-Description: Designed for sequential data, with connections that form directed cycles. They have memory of previous inputs.
+  3. Recurrent Neural Networks (RNN)
+     * Description: Designed for sequential data, with connections that form directed cycles. 
+     * They have memory of previous inputs.
 
 Uses: Ideal for time-series data, natural language processing, and speech recognition.
