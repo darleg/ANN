@@ -13,6 +13,9 @@ A. Structure of a Feedforward Neural Network (FNN)
   * Weights: Parameters that are adjusted during training to minimize error.
   * Biases: Additional parameters added to the weighted sum before applying the activation 
     function to shift the activation function.
-
 * Activation Functions: Functions like Sigmoid, ReLU (Rectified Linear Unit), Tanh, etc., 
   that introduce non-linearity into the network, allowing it to learn complex patterns.
+3. Output Layer:
+* Function: Produces the final result of the network, which could be a single value for 
+  regression tasks or multiple values for classification tasks.
+* Components: Each neuron in this layer represents a possible output.
