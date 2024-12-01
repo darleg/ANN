@@ -28,6 +28,7 @@ The process where data moves through the network from the input layer to the out
    of its inputs, adds a bias, and applies an activation function.
 3. Propagation: The activated values are passed to the next layer.
 4. Output: This process continues until the output layer generates the final prediction.
+
 C. Backward Propagation
 The learning process where the network updates its weights based on the error of its predictions:
 
