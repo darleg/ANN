@@ -18,12 +18,11 @@ Artificial Neural Networks (ANNs) come in various types, each tailored for speci
         problems. They are capable of remembering information for long periods.
       * Uses: Suitable for tasks requiring long-term context understanding, like language   
         modeling and translation.
-
-Generative Adversarial Networks (GAN)
-
-Description: Consist of two neural networks (a generator and a discriminator) that compete against each other to generate and improve realistic data samples.
-
-Uses: Commonly used in image generation, style transfer, and creating realistic synthetic data.
+    5. Generative Adversarial Networks (GAN)
+      * Description: Consist of two neural networks (a generator and a discriminator) that 
+        compete against each other to generate and improve realistic data samples.
+      * Uses: Commonly used in image generation, style transfer, and creating realistic 
+        synthetic data.
 
 Autoencoders
 
