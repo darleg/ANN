@@ -19,3 +19,11 @@ A. Structure of a Feedforward Neural Network (FNN)
 * Function: Produces the final result of the network, which could be a single value for 
   regression tasks or multiple values for classification tasks.
 * Components: Each neuron in this layer represents a possible output.
+B. Forward Propagation
+The process where data moves through the network from the input layer to the output layer:
+
+1. Input: The input features are fed into the network.
+2. Weighted Sum and Activation: Each neuron in the hidden layer calculates the weighted sum 
+   of its inputs, adds a bias, and applies an activation function.
+3. Propagation: The activated values are passed to the next layer.
+4. Output: This process continues until the output layer generates the final prediction.
