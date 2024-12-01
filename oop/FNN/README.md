@@ -28,3 +28,11 @@ The process where data moves through the network from the input layer to the out
    of its inputs, adds a bias, and applies an activation function.
 3. Propagation: The activated values are passed to the next layer.
 4. Output: This process continues until the output layer generates the final prediction.
+C. Backward Propagation
+The learning process where the network updates its weights based on the error of its predictions:
+
+Calculate Error: The difference between the predicted output and the actual target is calculated using a loss function (e.g., Mean Squared Error, Cross-Entropy).
+
+Backpropagate Error: The error is propagated back through the network to update the weights. This involves calculating the gradient of the loss function with respect to each weight using the chain rule of calculus.
+
+Update Weights: The weights are adjusted in the direction that reduces the error. This is controlled by the learning rate, which determines the size of the updates.
