@@ -1,1 +1,1 @@
-
+A Feedforward Neural Network (FNN) is one of the simplest forms of artificial neural networks. It consists of multiple layers of neurons, where each neuron is connected to every neuron in the subsequent layer. Here's a detailed description of FNNs:
