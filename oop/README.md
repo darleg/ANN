@@ -9,6 +9,5 @@ Artificial Neural Networks (ANNs) come in various types, each tailored for speci
      * Uses: Widely used in computer vision tasks, including image and video recognition.
   3. Recurrent Neural Networks (RNN)
      * Description: Designed for sequential data, with connections that form directed cycles. 
-     * They have memory of previous inputs.
-
-   4. Uses: Ideal for time-series data, natural language processing, and speech recognition.
+       They have memory of previous inputs.
+     * Uses: Ideal for time-series data, natural language processing, and speech recognition.
