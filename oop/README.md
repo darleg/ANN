@@ -31,7 +31,7 @@ Artificial Neural Networks (ANNs) come in various types, each tailored for speci
       * Description: A form of recurrent ANN that serves as a content-addressable memory 
         system with binary threshold nodes.
       * Uses: Used for associative memory tasks and solving optimization problems.
-    8. Radial Basis Function Networks (RBFN)
+   8. Radial Basis Function Networks (RBFN)
       * Description: Use radial basis functions as activation functions.
       * Uses: Commonly used for function approximation, classification, and time-series 
         prediction.
