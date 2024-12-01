@@ -24,8 +24,3 @@ Artificial Neural Networks (ANNs) come in various types, each tailored for speci
       * Uses: Commonly used in image generation, style transfer, and creating realistic 
         synthetic data.
 
-Autoencoders
-
-Description: Networks designed to learn efficient codings of input data. They consist of an encoder and a decoder.
-
-Uses: Used for tasks like data compression, noise reduction, and anomaly detection.
