@@ -23,4 +23,20 @@ Artificial Neural Networks (ANNs) come in various types, each tailored for speci
         compete against each other to generate and improve realistic data samples.
       * Uses: Commonly used in image generation, style transfer, and creating realistic 
         synthetic data.
+    6. Autoencoders
 
+Description: Networks designed to learn efficient codings of input data. They consist of an encoder and a decoder.
+
+Uses: Used for tasks like data compression, noise reduction, and anomaly detection.
+
+    7. Hopfield Networks
+
+Description: A form of recurrent ANN that serves as a content-addressable memory system with binary threshold nodes.
+
+Uses: Used for associative memory tasks and solving optimization problems.
+
+Radial Basis Function Networks (RBFN)
+
+Description: Use radial basis functions as activation functions.
+
+Uses: Commonly used for function approximation, classification, and time-series prediction.
