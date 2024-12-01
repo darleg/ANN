@@ -3,8 +3,7 @@ A Feedforward Neural Network (FNN) is one of the simplest forms of artificial ne
 # Structure of a Feedforward Neural Network (FNN)
 ## Input Layer:
 ### Function: Receives the initial data and passes it to the next layer.
-### Components: Each neuron in the input layer corresponds to a feature in the input 
-### data.B2. 
+### Components: Each neuron in the input layer corresponds to a feature in the input  data.B2. 
 ## Hidden Layers:
 1. Function: Intermediate layers between the input and output layers that process input 
    data 
