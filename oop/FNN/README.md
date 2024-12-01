@@ -19,6 +19,7 @@ A. Structure of a Feedforward Neural Network (FNN)
 * Function: Produces the final result of the network, which could be a single value for 
   regression tasks or multiple values for classification tasks.
 * Components: Each neuron in this layer represents a possible output.
+
 B. Forward Propagation
 The process where data moves through the network from the input layer to the output layer:
 
