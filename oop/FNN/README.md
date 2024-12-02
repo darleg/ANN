@@ -16,17 +16,12 @@ Key Points:
     non-linearity, enabling the network to learn complex patterns.
    * Learning: The network is trained using labeled data through iterative processes of 
      forward and backward propagation until the predictions are accurate.
-
-Advantages:
-
-Simplicity: Easy to understand and implement.
-
-Versatility: Can be used for various tasks such as classification, regression, and function approximation.
-
-Challenges:
-
-Scalability: Can become computationally expensive with large data sets.
-
-Overfitting: Prone to overfitting if not regularized properly.
-
-Lack of Memory: Cannot handle sequential data efficiently, unlike recurrent neural networks (RNNs).
+* Advantages:
+   * Simplicity: Easy to understand and implement.
+   * Versatility: Can be used for various tasks such as classification, regression, and 
+     function approximation.
+* Challenges:
+   * Scalability: Can become computationally expensive with large data sets.
+   * Overfitting: Prone to overfitting if not regularized properly.
+   * Lack of Memory: Cannot handle sequential data efficiently, unlike recurrent neural 
+     networks (RNNs).
