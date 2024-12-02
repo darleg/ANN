@@ -5,18 +5,15 @@ A Feedforward Neural Network (FNN) is one of the simplest forms of artificial ne
 ### Function: Receives the initial data and passes it to the next layer.
 ### Components: Each neuron in the input layer corresponds to a feature in the input  data.B2. 
 ## Hidden Layers:
-1. Function: Intermediate layers between the input and output layers that process input 
-   data 
-  and extract relevant features.
-2. Components:
+### Function: Intermediate layers between the input and output layers that process input data and extract relevant features.
+### Components:
   a. Neurons: Nodes that perform weighted sum of inputs and pass the result through an 
     activation function.
   b Weights: Parameters that are adjusted during training to minimize error.
   c Biases: Additional parameters added to the weighted sum before applying the activation 
     function to shift the activation function.
-1. Activation Functions: Functions like Sigmoid, ReLU (Rectified Linear Unit), Tanh, etc., 
-  that introduce non-linearity into the network, allowing it to learn complex patterns.
-3. Output Layer:
+### Activation Functions: Functions like Sigmoid, ReLU (Rectified Linear Unit), Tanh, etc., that introduce non-linearity into the network, allowing it to learn complex patterns.
+## Output Layer:
 * Function: Produces the final result of the network, which could be a single value for 
   regression tasks or multiple values for classification tasks.
 * Components: Each neuron in this layer represents a possible output.
