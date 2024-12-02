@@ -25,9 +25,3 @@ Key Points:
    * Overfitting: Prone to overfitting if not regularized properly.
    * Lack of Memory: Cannot handle sequential data efficiently, unlike recurrent neural 
      networks (RNNs).
-* Disadvantages
-  * Scalability: FNNs can become computationally expensive with large inputs and complex 
-    tasks.
-  * Overfitting: They can overfit the training data if not regularized properly.
-  * Lack of Memory: Unlike recurrent neural networks (RNNs), FNNs do not have memory of 
-    previous inputs, making them unsuitable for tasks involving sequential data.
