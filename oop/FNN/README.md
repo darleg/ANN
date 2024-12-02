@@ -9,9 +9,12 @@ A Feedforward Neural Network (FNN) is one of the simplest forms of artificial ne
 ### Components:
   a. Neurons: Nodes that perform weighted sum of inputs and pass the result through an 
     activation function.
+    
   b Weights: Parameters that are adjusted during training to minimize error.
+  
   c Biases: Additional parameters added to the weighted sum before applying the activation 
     function to shift the activation function.
+    
 ### Activation Functions: Functions like Sigmoid, ReLU (Rectified Linear Unit), Tanh, etc., that introduce non-linearity into the network, allowing it to learn complex patterns.
 ## Output Layer:
 * Function: Produces the final result of the network, which could be a single value for 
