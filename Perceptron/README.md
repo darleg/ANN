@@ -5,10 +5,10 @@ Think of it like this: Imagine you're trying to decide whether or not to go for 
 
 Here’s a simplified overview of how a perceptron works:
 
-Inputs: Takes in multiple inputs (e.g., features of data).
+1. Inputs: Takes in multiple inputs (e.g., features of data).
 
-Weights: Each input is assigned a weight that signifies its importance.
+2. Weights: Each input is assigned a weight that signifies its importance.
 
-Summation: Computes the weighted sum of inputs.
+3. Summation: Computes the weighted sum of inputs.
 
-Activation Function: Passes the weighted sum through an activation function to determine the output (e.g., step function, sigmoid).
+4. Activation Function: Passes the weighted sum through an activation function to determine the output (e.g., step function, sigmoid).
