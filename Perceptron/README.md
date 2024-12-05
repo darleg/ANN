@@ -12,3 +12,5 @@ Here’s a simplified overview of how a perceptron works:
 3. Summation: Computes the weighted sum of inputs.
 
 4. Activation Function: Passes the weighted sum through an activation function to determine the output (e.g., step function, sigmoid).
+
+Perceptrons are the building blocks of more complex neural networks used for tasks like image recognition, natural language processing, and much more.
