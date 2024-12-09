@@ -11,9 +11,7 @@ Structure of an ANN:
     * Output Layer: The final layer that produces the result or prediction.
 
 3. Learning Process:
-
-Forward Propagation: The input data is passed through the network layer by layer, and the output is generated.
-
-Error Calculation: The difference between the predicted output and the actual output is calculated using a loss function.
-
-Backward Propagation (Backpropagation): The error is propagated back through the network, and the weights of the connections are adjusted to minimize the error. This process involves calculatin
+   * Forward Propagation: The input data is passed through the network layer by layer, and the output is generated.
+   * Error Calculation: The difference between the predicted output and the actual output is calculated using a loss function.
+   * Backward Propagation (Backpropagation): The error is propagated back through the network, and the weights of the connections are adjusted 
+     to minimize the error. This process involves calculatin
