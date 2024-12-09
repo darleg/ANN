@@ -3,9 +3,9 @@ Artificial Neural Network (ANN) is a computational model inspired by the way bio
 
 Structure of an ANN:
 
-Neurons: The basic units that process information. Each neuron receives input, processes it, and passes the output to the next layer.
+1. Neurons: The basic units that process information. Each neuron receives input, processes it, and passes the output to the next layer.
 
-Layers:
+2. Layers:
 
 Input Layer: The first layer that takes in the raw data.
 
