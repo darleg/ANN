@@ -5,10 +5,10 @@ Structure of an ANN:
 
 1. Neurons: The basic units that process information. Each neuron receives input, processes it, and passes the output to the next layer.
 2. Layers:
-  * Input Layer: The first layer that takes in the raw data.
-  * Hidden Layers: Intermediate layers where the actual processing and feature extraction occur. ANNs can have multiple hidden layers (deep 
-    learning models).
-  * Output Layer: The final layer that produces the result or prediction.
+    * Input Layer: The first layer that takes in the raw data.
+    * Hidden Layers: Intermediate layers where the actual processing and feature extraction occur. ANNs can have multiple hidden layers (deep 
+      learning models).
+    * Output Layer: The final layer that produces the result or prediction.
 
 3. Learning Process:
 
