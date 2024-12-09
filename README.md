@@ -15,3 +15,16 @@ Structure of an ANN:
    * Error Calculation: The difference between the predicted output and the actual output is calculated using a loss function.
    * Backward Propagation (Backpropagation): The error is propagated back through the network, and the weights of the connections are adjusted 
      to minimize the error. This process involves calculatin
+
+Activation Functions: Neurons use activation functions to introduce non-linearity, enabling the network to learn complex patterns. Common activation functions include:
+* Sigmoid: Squashes input values between 0 and 1.
+* ReLU (Rectified Linear Unit): Converts negative values to zero while keeping positive values unchanged.
+* Tanh: Squashes input values between -1 and 1.
+
+Training: ANNs require a large amount of data to train effectively. The training process involves feeding data into the network, calculating errors, adjusting weights, and iterating until the model performs well on unseen data.
+
+Applications:
+* Image Recognition: Identifying objects, faces, and scenes in images.
+* Natural Language Processing (NLP): Understanding and generating human language.
+* Game Playing: AI agents that can play and excel at complex games.
+* Healthcare: Diagnosing diseases from medical images or predicting patient outcomes.
