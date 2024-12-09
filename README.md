@@ -4,16 +4,13 @@ Artificial Neural Network (ANN) is a computational model inspired by the way bio
 Structure of an ANN:
 
 1. Neurons: The basic units that process information. Each neuron receives input, processes it, and passes the output to the next layer.
-
 2. Layers:
+  * Input Layer: The first layer that takes in the raw data.
+  * Hidden Layers: Intermediate layers where the actual processing and feature extraction occur. ANNs can have multiple hidden layers (deep 
+    learning models).
+  * Output Layer: The final layer that produces the result or prediction.
 
-Input Layer: The first layer that takes in the raw data.
-
-Hidden Layers: Intermediate layers where the actual processing and feature extraction occur. ANNs can have multiple hidden layers (deep learning models).
-
-Output Layer: The final layer that produces the result or prediction.
-
-Learning Process:
+3. Learning Process:
 
 Forward Propagation: The input data is passed through the network layer by layer, and the output is generated.
 
